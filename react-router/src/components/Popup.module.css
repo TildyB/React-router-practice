@@ -1,0 +1,17 @@
+
+.hatter{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.299);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:0
+}
+.doboz{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(176, 247, 53);
+    color: rgb(201, 18, 195);
+}
